@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Repository specific ignores
+etc/
+Include/
+Lib/
+Scripts/
+share/
+tcl/
