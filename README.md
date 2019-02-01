@@ -4,6 +4,8 @@ Consolidated repository of Python references collected over time - done with Jup
 ### Synopsis
 This project is a "living" repository of basic/intermediate/(possibly) advanced Python coding examples and patterns.  All examples have a corresponding Jupyter Notebook (at a minimum) and some "regular" Python (*.py) files for further examples.  Everything can be demo'ed out of [binder](https://mybinder.org/).
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KyleEgland/python_references/master)
+
 ### Motivation
 I've gathered several repositories of simple references and desired to have a consolidated Python reference which could run without cloning the repository (hence Jupyter and binder).  This is, by no means definitive or ever finished.  Additionally, it will (more than likely) lack a lot of "simpler" patterns, design concepts, and methods that can be found with a simple search.
 
