@@ -110,3 +110,12 @@ Lib/
 Scripts/
 share/
 tcl/
+
+# Repo specific ignores:
+# virtualenv stuff
+etc/
+Include/
+Lib/
+Scripts/
+share/
+tcl/
